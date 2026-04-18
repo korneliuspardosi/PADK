@@ -29,3 +29,5 @@ This project employs a discrete choice econometric approach:
 2. Make sure you have Python 3.8 or later.
 3. Install all dependencies by running the command: `pip install -r requirements.txt`
 4. Open the files inside the `notebooks/` folder using Jupyter Notebook or VS Code.
+
+Due to privacy and copyright policies, the raw ISES 2023 dataset is not publicly available in this repository. Researchers interested in replicating this study can access the dataset through the official World Bank Microdata Library portal.
