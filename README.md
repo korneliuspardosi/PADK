@@ -1,4 +1,4 @@
-# Paper-PADK
+# PADK
 Econometric analysis of the determinants of informality in Indonesia using the ISES 2023 dataset and Multinomial Logit regression.
 
 # Determinants of Informality in Indonesia: An Empirical Analysis
