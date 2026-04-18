@@ -23,12 +23,6 @@ This project employs a discrete choice econometric approach:
 * `notebooks/` : Jupyter Notebooks (`.ipynb`) containing data cleaning, exploratory data analysis (EDA), and regression modeling.
 * `paper/` : The final manuscript and publication drafts (LaTeX/PDF format).
 
-## How to Run
-1. Clone this repository to your local computer.
-2. Make sure you have Python 3.8 or later.
-3. Install all dependencies by running the command: `pip install -r requirements.txt`
-4. Open the files inside the `notebooks/` folder using Jupyter Notebook or VS Code.
-
 ## Main References
 * Ablaza, C. M. J., Alladi, V., & Pape, U. J. (2023). *Indonesia’s informal economy: Measurement, evidence, and a research agenda*. World Bank.
 * Hapsari, I. M., Yu, S., Pape, U. J., & Mansour, W. (2023). *Informality in Indonesia: Levels, trends, and features*. World Bank.
