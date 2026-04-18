@@ -22,6 +22,7 @@ This project employs a discrete choice econometric approach:
 ## Repository Structure
 * `notebooks/` : Jupyter Notebooks (`.ipynb`) containing data cleaning, exploratory data analysis (EDA), and regression modeling.
 * `paper/` : The final manuscript and publication drafts (LaTeX/PDF format).
+* `data/` : Indonesia-2023-ISES-full-data.dta
 
 ## Main References
 * Ablaza, C. M. J., Alladi, V., & Pape, U. J. (2023). *Indonesia’s informal economy: Measurement, evidence, and a research agenda*. World Bank.
