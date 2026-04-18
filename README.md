@@ -27,5 +27,3 @@ This project employs a discrete choice econometric approach:
 * Ablaza, C. M. J., Alladi, V., & Pape, U. J. (2023). *Indonesia’s informal economy: Measurement, evidence, and a research agenda*. World Bank.
 * Hapsari, I. M., Yu, S., Pape, U. J., & Mansour, W. (2023). *Informality in Indonesia: Levels, trends, and features*. World Bank.
 * Rothenberg, A. D., et al. (2016). Rethinking Indonesia's informal sector. *World Development*, 80, 96-113.
-
-Due to privacy and copyright policies, the raw ISES 2023 dataset is not publicly available in this repository. Researchers interested in replicating this study can access the dataset through the official World Bank Microdata Library portal.
