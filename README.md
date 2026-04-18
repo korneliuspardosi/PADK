@@ -22,7 +22,6 @@ This project employs a discrete choice econometric approach:
 ## Repository Structure
 * `notebooks/` : Jupyter Notebooks (`.ipynb`) containing data cleaning, exploratory data analysis (EDA), and regression modeling.
 * `paper/` : The final manuscript and publication drafts (LaTeX/PDF format).
-* `requirements.txt` : List of Python dependencies required to run the analysis (e.g., `pandas`, `statsmodels`, `matplotlib`, `seaborn`).
 
 ## How to Run
 1. Clone this repository to your local computer.
